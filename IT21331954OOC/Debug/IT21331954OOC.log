@@ -1,0 +1,11 @@
+﻿  Catering.cpp
+C:\Users\94701\source\repos\IT21331954OOC\IT21331954OOC\EventDealers.h(4,9): fatal error C1083: Cannot open include file: 'RegisteredCustomer.h': No such file or directory
+  EventDealers.cpp
+C:\Users\94701\source\repos\IT21331954OOC\IT21331954OOC\EventDealers.h(4,9): fatal error C1083: Cannot open include file: 'RegisteredCustomer.h': No such file or directory
+  HallDealer.cpp
+C:\Users\94701\source\repos\IT21331954OOC\IT21331954OOC\EventDealers.h(4,9): fatal error C1083: Cannot open include file: 'RegisteredCustomer.h': No such file or directory
+  IT21331954OOC.cpp
+C:\Users\94701\source\repos\IT21331954OOC\IT21331954OOC\EventDealers.h(4,9): fatal error C1083: Cannot open include file: 'RegisteredCustomer.h': No such file or directory
+  Photography.cpp
+C:\Users\94701\source\repos\IT21331954OOC\IT21331954OOC\EventDealers.h(4,9): fatal error C1083: Cannot open include file: 'RegisteredCustomer.h': No such file or directory
+  Generating Code...
